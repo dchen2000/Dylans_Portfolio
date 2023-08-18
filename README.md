@@ -5,7 +5,7 @@
 *The project used generic bike sales data to create pivote tables
 *The Porject used the pivot tables to create interactive dashboards
 
- [Project 1: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
+# [Project 1: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
  *Took data from the https://ourworldindata.org/covid-deaths
  *Clenead up data and created simple queries to analyze covid deaths and covid cases
 

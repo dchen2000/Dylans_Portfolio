@@ -5,7 +5,7 @@
 *The project used generic bike sales data to create pivote tables
 *The Porject used the pivot tables to create interactive dashboards
 
-# [Project 2: Excel Dash Board Using Bike Sales](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
+# [Project 2: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
 
 
 

@@ -5,12 +5,13 @@
 * The project used generic bike sales data to create pivote tables
 * The Porject used the pivot tables to create interactive dashboards
 
+<img width="633" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/86bc006c-d728-44e2-9a6b-7114c1a58907">
+
+
 # [Project 2: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
 * Took data from the https://ourworldindata.org/covid-deaths
 * Cleaned up data and created simple queries to analyze covid deaths and covid cases
-
-* <img width="633" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/9fb44c9f-3cb7-4b21-8d75-fd27fda6053f">
-
+* 
 
 # [Project 3: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
 * Took the SQL queries I wrote in the previous project to create visualizations using Tableau

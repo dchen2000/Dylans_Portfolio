@@ -9,7 +9,7 @@
 
 
 # [Project 2: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
-Data Source:Took data from the https://ourworldindata.org/covid-deaths
+Data Source:https://ourworldindata.org/covid-deaths
 Project Overview: 
 * Data Source Selection: Identified and selected relevant COVID-19 datasets for analysis.
 * Data Exploration: Utilized SQL queries to explore and understand the structure of the COVID-19 data.

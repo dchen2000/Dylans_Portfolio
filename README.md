@@ -1,10 +1,13 @@
 # Dylans_Portfolio
 
 # [Project 1: Excel Dash Board Using Bike Sales](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Excel%20Project%20Dataset.xlsx)
- * Project Overview 
-  * Data was taken from a sample bike sales project 
-  * The project used generic bike sales data to create pivote tables
-  * The project used the pivot tables to create interactive dashboards
+ * **Project Overview **
+    The Excel bike sales project was initiated to analyze and visualize data obtained from a sample bike sales dataset. The project employed generic bike sales data to derive meaningful insights and enhance decision-making processes. Key components of the project include:
+
+* **Data Source:** The project sourced data from a comprehensive sample bike sales dataset, providing a diverse range of information related to bike sales transactions.
+* **Data Exploration and Cleaning:** Prior to analysis, the dataset underwent meticulous exploration to understand its structure and identify any inconsistencies. Cleaning procedures were implemented to address missing values, outliers, and ensure data integrity.
+* **Pivot Table Creation:** Leveraging the powerful data manipulation capabilities of Excel, the project involved the creation of pivot tables. These tables were instrumental in summarizing and aggregating the bike sales data, enabling a more in-depth analysis.
+* **Interactive Dashboards:** The pivot tables served as the foundation for the development of interactive dashboards. These dashboards were designed to provide an intuitive and dynamic representation of the bike sales data, facilitating easier interpretation and exploration.
 
 <img width="633" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/86bc006c-d728-44e2-9a6b-7114c1a58907">
 

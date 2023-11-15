@@ -18,7 +18,7 @@
 * Created a heatmap to better help visualize covid incidence rate around the world
 * Created a time series graph to show covid case trends and forecast
 
-* <img width="941" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/878b6b64-33a6-4eb3-bf36-6c5f54bbbd81">
+<img width="941" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/878b6b64-33a6-4eb3-bf36-6c5f54bbbd81">
 
 
 

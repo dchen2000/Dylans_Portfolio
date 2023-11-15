@@ -18,6 +18,8 @@
 
 
 # [Project 3: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
+
+**Project Overviewz: **
 * Took the SQL queries I wrote in the previous project to create visualizations using Tableau
 * Created a heatmap to better help visualize covid incidence rate around the world
 * Created a time series graph to show covid case trends and forecast

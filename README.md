@@ -9,8 +9,8 @@
 
 
 # [Project 2: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
-**Data Source:** Took data from the https://ourworldindata.org/covid-deaths
-**Project Overview: **
+Data Source:Took data from the https://ourworldindata.org/covid-deaths
+Project Overview: 
 * Data Source Selection: Identified and selected relevant COVID-19 datasets for analysis.
 * Data Exploration: Utilized SQL queries to explore and understand the structure of the COVID-19 data.
 * Data Cleaning: Applied SQL queries to clean and preprocess the data, handling missing values and outliers.
@@ -19,7 +19,7 @@
 
 # [Project 3: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
 
-**Project Overviewz: **
+Project Overview: 
 * Took the SQL queries I wrote in the previous project to create visualizations using Tableau
 * Created a heatmap to better help visualize covid incidence rate around the world
 * Created a time series graph to show covid case trends and forecast

@@ -3,7 +3,7 @@
 # [Project 1: Excel Dash Board Using Bike Sales](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Excel%20Project%20Dataset.xlsx)
 * Data was taken from a sample bike sales project 
 * The project used generic bike sales data to create pivote tables
-* The Porject used the pivot tables to create interactive dashboards
+* The project used the pivot tables to create interactive dashboards
 
 <img width="633" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/86bc006c-d728-44e2-9a6b-7114c1a58907">
 

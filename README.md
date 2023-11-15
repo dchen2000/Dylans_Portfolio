@@ -10,7 +10,10 @@
 
 # [Project 2: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
 * Took data from the https://ourworldindata.org/covid-deaths
-* Cleaned up data and created simple queries to analyze covid deaths and covid cases
+* **Data Source Selection:** Identified and selected relevant COVID-19 datasets for analysis.
+* **Data Exploration:** Utilized SQL queries to explore and understand the structure of the COVID-19 data.
+* **Data Cleaning:** Applied SQL queries to clean and preprocess the data, handling missing values and outliers.
+* **Querying Trends**:Formulated SQL queries to analyze trends in COVID-19 cases, deaths, and recoveries over time.
 
 
 # [Project 3: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)

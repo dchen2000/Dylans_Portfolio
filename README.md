@@ -11,7 +11,7 @@
 # [Project 2: SQL Project Using Covid Data](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Covid%20Porfolio.sql)
 * Took data from the https://ourworldindata.org/covid-deaths
 * Cleaned up data and created simple queries to analyze covid deaths and covid cases
-* 
+
 
 # [Project 3: Taking SQL Queury and Creating Tableau Visualizations](https://public.tableau.com/app/profile/dylan8279/viz/CovidDashboard_16923203905120/Dashboard1?publish=yes)
 * Took the SQL queries I wrote in the previous project to create visualizations using Tableau

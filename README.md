@@ -1,7 +1,7 @@
 # Dylans_Portfolio
 
 # [Project 1: Excel Dash Board Using Bike Sales](https://github.com/dchen2000/Dylans_Portfolio/blob/main/Excel%20Project%20Dataset.xlsx)
- * **Project Overview**
+ * **Project Overview:**
     The Excel bike sales project was initiated to analyze and visualize data obtained from a sample bike sales dataset. The project employed generic bike sales data to derive meaningful insights and enhance decision-making processes. Key components of the project include:
 
 * **Data Source:** The project sourced data from a comprehensive sample bike sales dataset, providing a diverse range of information related to bike sales transactions.

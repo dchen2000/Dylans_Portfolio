@@ -42,3 +42,9 @@
 
 
 
+# [Project 5: Learning Data Relationship](https://public.tableau.com/authoring/DataSchemaExample/Sheet1#2)
+* Project Overview: 
+  * Used tables to create relatinship at the logical layer 
+<img width="941" alt="image" src= "https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/941ba06b-d80e-48be-9d34-1009d67b975b">
+
+

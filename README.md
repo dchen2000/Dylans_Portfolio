@@ -32,12 +32,11 @@
 
 # [Project 4: Creating Tableau Visualization Story](https://public.tableau.com/app/profile/dylan8279/viz/SegmentedCustomerStory/Story1)
 
-
-
-
-
-
-
+* Project Overview: 
+  * Took sample excel data from a fake bank in the UK and created a customer segmentation dashboard 
+  * Created a heatmap, an age distirbution chart, a balance distirbution chart, job classes tree map, and gender piechart.
+  * Created bins for age groups and the balance charts and made parameters for these charts so the viewer can change the parameters. 
+  * Analyzed the customer segmentation dashboard to create a story
 
 <img width="941" alt="image" src= "https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/047ddcf0-1e26-4a7d-a08b-944338b753be">
 

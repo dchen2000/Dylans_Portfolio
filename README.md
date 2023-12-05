@@ -30,6 +30,7 @@
 
 <img width="941" alt="image" src="https://github.com/dchen2000/Dylans_Portfolio/assets/140763366/878b6b64-33a6-4eb3-bf36-6c5f54bbbd81">
 
+# [Project 4: Creating Tableau Visualization Story](https://public.tableau.com/app/profile/dylan8279/viz/SegmentedCustomerStory/Story1)
 
 
 

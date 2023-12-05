@@ -23,7 +23,9 @@ order by TotalDeathCount desc
 
 
 -- 3.
-
+--shows location, population, highest infection count, and % of population infected 
+--change nulls to 0 to make it assign numeric data type 
+  
 Select Location, Population, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths
 --Where location like '%states%'
@@ -32,7 +34,7 @@ order by PercentPopulationInfected desc
 
 
 -- 4.
-
+--dates
 
 Select Location, Population,date, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths

@@ -17,7 +17,6 @@
 * **Project Overview:** 
   * **Data Source Selection:** Identified and selected relevant COVID-19 datasets for analysis.
   * **Data Exploration**: Utilized SQL queries to explore and understand the structure of the COVID-19 data.
-  * **Data Cleaning:** Applied SQL queries to clean and preprocess the data, handling missing values and outliers.
   * **Querying Trends:** Formulated SQL queries to analyze trends in COVID-19 cases, deaths, and recoveries over time.
 
 
